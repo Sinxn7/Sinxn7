@@ -74,17 +74,6 @@ I am a technology enthusiast building my foundation in cloud engineering and mod
 	<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
-## Featured Projects
-
-> These are project spaces for documenting hands-on learning. Links will be added as each project develops.
-
-| Project | Description | Repository |
-| --- | --- | --- |
-| ☁️ Cloud Infrastructure Automation | Provision cloud resources with repeatable Infrastructure as Code workflows. | [View repository](https://github.com/Sinxn7/cloud-infrastructure-automation) |
-| 🚀 Cloud-Native Application Deployment | Explore how containerized applications move from development to a cloud environment. | [View repository](https://github.com/Sinxn7/cloud-native-deployment) |
-| 🌐 Scalable Web Application on Cloud | Learn the building blocks behind a resilient, multi-service web application. | [View repository](https://github.com/Sinxn7/scalable-cloud-application) |
-| 🔐 Cloud Security & Monitoring Lab | Practice identity, secure configuration, logging, and useful monitoring signals. | [View repository](https://github.com/Sinxn7/cloud-security-monitoring-lab) |
-
 ## Learning Journey
 
 My current learning path is centered on understanding the full lifecycle of cloud systems:
