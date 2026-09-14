@@ -1,4 +1,4 @@
-# Hi 👋, I'm Muhamed Sinan
+# Hello 👋, I'm Sinan
 
 ### Cloud Engineering | Cloud Infrastructure | Scalable Systems
 
